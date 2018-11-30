@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_music"
+        android:icon="@drawable/ic_store_white_24dp"
+        android:title="@string/music"></item>
+    <item
+        android:id="@+id/menu_movie"
+        android:icon="@drawable/ic_card_giftcard_white_24dp"
+        android:title="@string/movie"></item>
+    <item
+        android:id="@+id/menu_game"
+        android:icon="@drawable/ic_shopping_cart_white_24dp"
+        android:title="@string/game"></item>
+</menu>
